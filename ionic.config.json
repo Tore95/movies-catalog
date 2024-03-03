@@ -1,0 +1,7 @@
+{
+  "name": "movies-catalog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
